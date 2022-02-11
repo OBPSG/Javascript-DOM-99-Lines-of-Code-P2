@@ -7,14 +7,14 @@ h1 {
 }
 
 .friend {
-  background-color: lightblue;
+  background-color: rgb(111, 172, 192);
 }
 
 .friend > h3 {
-  color: rgb(72, 143, 50);
+  color: rgb(103, 202, 73);
   text-transform: uppercase;
 }
 
-.friend > p {
+.song-line {
   color: whitesmoke;
 }
